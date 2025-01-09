@@ -1,0 +1,3 @@
+Municipality,StartDate,EndDate,TaxRate,Frequency
+Copenhagen,2016-01-01,2016-12-31,0.2,Yearly
+Copenhagen,2016-05-01,2016-05-31,0.4,Monthly
